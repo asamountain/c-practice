@@ -19,10 +19,18 @@
 #include <stdio.h>
 int main(){
 
-        int i,j;
-        i=10; j=5;
-        printf("%d ", i++ - ++j);
-        printf("%d %d", i, j);
+        int a,b,c,d;
+
+        a=4;
+        b=1;
+        c=3;
+        d=1;
+
+        printf("%d\n", a/b%c/d);
+        printf("%d\n", -a -b +c - +d);
+        printf("%d\n", a*-b/c-d);
+
+
 
         return 0;
 }
