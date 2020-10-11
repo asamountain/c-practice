@@ -20,41 +20,29 @@
 
 int main(){
 
-        int n1,n2;
+        int n10,n1;
         printf("Enter a two-digit number: ");
-        scanf("%1d%1d", &n1,&n2);
+        scanf("%1d%1d", &n10,&n1);
 
-        printf("n1: %d,n2 :%d\n ", n1,n2);
+        printf("n10: %d,n1 :%d\n", n10,n1);
 
         char *tenth[10];
         char *first[10];
-        switch(n1){
-                case 1: 
-                        switch(n2){
-                                case 1: 
-                                        printf("n1 1 arrived!\n");
-                                        tenth[10]="elev"; break;
-                                case 2: tenth[10]="twelv"; break;
-                                case 3: tenth[10]="thirte"; break;
-                                case 4: tenth[10]="forte"; break;
-                                case 5: tenth[10]="fifte"; break;
-                                case 6: tenth[10]="sixte"; break;
-                                case 7: tenth[10]="sevente"; break;
-                                case 8: tenth[10]="eighte"; break;
-                                case 9: tenth[10]="ninete"; break;
-                        };
-                        break;
-                case 2: tenth[10]="twenty"; break;
-                case 3: tenth[10]="thirty";break;
-                case 4: tenth[10]="forty";break;
-                case 5: tenth[10]="fifty";break;
-                case 6: tenth[10]="sixty";break;
-                case 7: tenth[10]="seventy";break;
-                case 8: tenth[10]="eighty";break;
-                case 9: tenth[10]="ninety";break;
-        }
-        if(n1!=1){
-                switch(n2){
+
+        if(n10==1){ switch(n1){ 
+                case 1: printf("You entered eleven"); break;
+                case 2: printf("You entered twelven"); break;
+                case 3: printf("You entered thirteen"); break;
+                case 4: printf("You entered forteen"); break;
+                case 5: printf("You entered fifteen"); break;
+                case 6: printf("You entered sixteen"); break;
+                case 7: printf("You entered seventeen"); break;
+                case 8: printf("You entered eighteen"); break;
+                case 9: printf("You entered nineteen"); break;
+        };}
+
+        if(n10!=1){
+                switch(n1){
                 case 1: first[10]="one";break;
                 case 2: first[10]="two";break;
                 case 3: first[10]="three";break;
@@ -66,12 +54,19 @@ int main(){
                 case 9: first[10]="nine";break;
                 case 0: first[10]="";break;
                 }
-        }else if(n1==1){
-        
-                first[10]="en";
+                switch(n10){
+                case 2: tenth[10]="twenty"; break;
+                case 3: tenth[10]="thirty";break;
+                case 4: tenth[10]="forty";break;
+                case 5: tenth[10]="fifty";break;
+                case 6: tenth[10]="sixty";break;
+                case 7: tenth[10]="seventy";break;
+                case 8: tenth[10]="eighty";break;
+                case 9: tenth[10]="ninety";break;
         }
-
-         printf("You entered the number %s-%s",tenth[10],first[10]);
+        printf("You entered the number %s-%s",tenth[10],first[10]);
+       } 
+        
 
         return 0;
 }
