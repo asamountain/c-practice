@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 
+// Practice: Basic string handling and comparison in C.
+// Concepts: Character arrays, string functions (strlen, strncmp), if-else logic.
+
 int main(){
 
         //char * name ="John Smith";

@@ -16,6 +16,9 @@
  * =====================================================================================
  */
 
+// Practice: Pointer assignment, dereferencing, and memory addresses.
+// Concepts: Pointers, address-of operator, dereferencing, memory addresses.
+
 #include <stdio.h>
 
 int main(){

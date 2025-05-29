@@ -15,6 +15,10 @@
  *
  * =====================================================================================
  */
+
+// Practice: Reading mixed float and integer input in sequence (variation).
+// Concepts: Mixed input, scanf formatting, output formatting.
+
 #include <stdio.h>
 
 int main(){

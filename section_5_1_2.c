@@ -16,6 +16,9 @@
  * =====================================================================================
  */
 
+// Practice: Logical OR operator and short-circuit evaluation.
+// Concepts: Logical operators, short-circuit evaluation, boolean expressions.
+
 #include <stdio.h>
 int main(){
 

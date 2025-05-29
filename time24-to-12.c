@@ -15,6 +15,8 @@
  *
  * =====================================================================================
  */
+// Practice: Converting 24-hour time to 12-hour format.
+// Concepts: Integer input, formatted input, conditional statements, output formatting.
 #include <stdio.h>
 int main(){
         int hour, mins;

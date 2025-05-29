@@ -1,3 +1,5 @@
+// Practice: Swapping two integers using pointers.
+// Concepts: Pointers, function arguments, dereferencing, address-of operator.
 #include<stdio.h>
 
 void swapping(int * ptr_c, int * ptr_d){

@@ -16,6 +16,8 @@
  *
  * =====================================================================================
  */
+// Practice: Mapping telephone area codes to city names using switch-case.
+// Concepts: Integer input, switch-case, output formatting.
 #include <stdio.h>
 int main(){
         int input_area_code;

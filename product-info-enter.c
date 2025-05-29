@@ -1,3 +1,5 @@
+// Practice: Reading and displaying product information with formatted output.
+// Concepts: Integer and float input, formatted output, scanf/printf formatting.
 #include <stdio.h>
 
 int main(){

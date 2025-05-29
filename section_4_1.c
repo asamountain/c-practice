@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// Practice: Arithmetic expressions and operator precedence.
+// Concepts: Integer arithmetic, operator precedence, output formatting.
+
 int main(){
 
         int i,j,k;

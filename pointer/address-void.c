@@ -16,6 +16,9 @@
  * =====================================================================================
  */
 
+// Practice: Using pointers and dereferencing (undefined behavior example).
+// Concepts: Pointers, dereferencing, uninitialized pointers, memory access.
+
 #include <stdio.h>
 
 int main(void){

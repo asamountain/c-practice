@@ -16,6 +16,9 @@
  * =====================================================================================
  */
 
+// Practice: Compound assignment and operator precedence.
+// Concepts: Compound assignment operators, operator precedence, integer arithmetic.
+
 #include <stdio.h>
 int main(){
 

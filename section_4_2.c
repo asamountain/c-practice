@@ -1,3 +1,6 @@
+// Practice: Exploring floating-point division, negation, and boolean logic in C.
+// Concepts: Floating-point arithmetic, boolean expressions, printf formatting.
+
 #include <stdio.h>
 #include <stdbool.h>
 

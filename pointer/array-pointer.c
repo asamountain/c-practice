@@ -16,6 +16,9 @@
  * =====================================================================================
  */
 
+// Practice: Array and pointer relationships in C.
+// Concepts: Arrays, pointers, pointer arithmetic, memory addresses.
+
 #include <stdio.h>
 
 int main(){

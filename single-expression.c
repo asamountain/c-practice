@@ -16,6 +16,8 @@
  * =====================================================================================
  */
 
+// Practice: Using single expressions, ternary operator, and absolute value.
+// Concepts: Conditional expressions, ternary operator, arithmetic expressions.
 
 #include <stdio.h>
 int main(){

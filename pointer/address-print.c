@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdbool.h>
 
+// Practice: Assigning and dereferencing pointers.
+// Concepts: Pointers, address-of operator, dereferencing, value comparison.
+
 int main(){
 
 

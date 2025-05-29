@@ -16,6 +16,9 @@
  * =====================================================================================
  */
 
+// Practice: Operator precedence and mixed arithmetic/logic expressions.
+// Concepts: Integer arithmetic, operator precedence, mixed expressions, output formatting.
+
 #include <stdio.h>
 int main(){
 

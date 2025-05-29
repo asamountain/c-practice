@@ -16,6 +16,9 @@
  * =====================================================================================
  */
 
+// Practice: Printing a star pattern using formatted output.
+// Concepts: Output formatting, escape sequences, pattern printing.
+
 #include <stdio.h>
 
 int main(){

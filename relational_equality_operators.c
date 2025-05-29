@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// Practice: Using relational and equality operators in C.
+// Concepts: Relational operators, equality operators, boolean logic, output formatting.
+
 int main(){
 
         int i,j,k;

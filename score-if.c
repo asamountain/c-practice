@@ -15,6 +15,10 @@
  *
  * =====================================================================================
  */
+
+// Practice: Assigning letter grades based on score using if-else statements.
+// Concepts: Conditional statements, nested if-else, output formatting.
+
 #include <stdio.h>
 
 int main(){

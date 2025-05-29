@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// Practice: Declaring and printing multiple integer and float variables (variation).
+// Concepts: Variable declaration, output formatting, uninitialized variables.
+
 int main(){
         int a,b,c;
         float d,e,f;

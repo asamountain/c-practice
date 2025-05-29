@@ -15,6 +15,8 @@
  *
  * =====================================================================================
  */
+// Practice: Classifying wind speed into categories.
+// Concepts: Integer input, conditional statements (if-else), output formatting.
 #include <stdio.h>
 
 int main(){

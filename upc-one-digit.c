@@ -15,6 +15,8 @@
  *
  * =====================================================================================
  */
+// Practice: Calculating the check digit for a UPC code from a single integer input.
+// Concepts: Integer input, digit extraction, arithmetic operations, modular arithmetic.
 #include <stdio.h>
 int main(){
 

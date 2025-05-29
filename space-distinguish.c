@@ -16,6 +16,9 @@
  * =====================================================================================
  */
 
+// Practice: Reading and printing pairs of floating-point numbers with delimiters.
+// Concepts: Floating-point input, for loop, scanf formatting, output formatting.
+
 #include <stdio.h>
 
 int main(){

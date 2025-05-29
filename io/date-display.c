@@ -16,6 +16,9 @@
  * =====================================================================================
  */
 
+// Practice: Reading and displaying a date in a different format.
+// Concepts: Integer input, formatted input/output, scanf/printf formatting.
+
 #include <stdio.h>
 
 int main(){

@@ -16,6 +16,8 @@
  * =====================================================================================
  */
 
+// Practice: Adding two numbers input by the user.
+// Concepts: Integer input, scanf, printf, arithmetic operations.
 
 #include <stdio.h>
 

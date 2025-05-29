@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// Practice: Reversing the digits of a three-digit number.
+// Concepts: Integer input, arithmetic operations, digit extraction, output formatting.
+
 int main(){
 
         int i, hundreds, tenth, first;

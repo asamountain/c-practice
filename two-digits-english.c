@@ -15,6 +15,10 @@
  *
  * =====================================================================================
  */
+
+// Practice: Mapping two-digit numbers to their English word representation.
+// Concepts: Integer input, arrays, switch-case, string formatting, conditional logic.
+
 #include <stdio.h>
 
 

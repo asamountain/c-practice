@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// Practice: Using structures to store and print data.
+// Concepts: Struct definition, struct variable, member access, pointers to struct members.
+
 struct telephone{
 
         char *name;

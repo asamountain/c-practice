@@ -15,6 +15,8 @@
  *
  * =====================================================================================
  */
+// Practice: Logical operators, short-circuit evaluation, and side effects.
+// Concepts: Logical AND/OR, short-circuiting, side effects, operator precedence.
 #include <stdio.h>
 int main(){
         int i,j,k;

@@ -16,6 +16,10 @@
  * =====================================================================================
  */
 
+// Practice: Creating and assigning pointers.
+// Concepts: Pointers, address-of operator, pointer assignment.
+// Note: This code contains a bug (should assign ptr = &num; not *ptr = &num;).
+
 #include <stdio.h>
 
 int main(){
@@ -23,7 +27,7 @@ int main(){
 int num=10;
 int * ptr;
 
-*ptr = &num;
+ptr = &num;
 
 
 

@@ -16,6 +16,9 @@
  * =====================================================================================
  */
 
+// Practice: Calculating the check digit for a UPC code.
+// Concepts: Integer input, formatted input, arithmetic operations, modular arithmetic.
+
 #include <stdio.h>
 
 int main(){
