@@ -1,4 +1,4 @@
-![42School Legacy Photo](https://photos.fife.usercontent.google.com/pw/AP1GczOT_mMA_RNe_Gq1PkCwR3o6Kl8SK3OV-OPtMptjrCs3mMcu9LycmNKeKQ=w1219-h1624-s-no-gm?authuser=0)
+![42Seoul Legacy NameTag](https://github.com/user-attachments/assets/d11249bf-37be-47c7-8dc1-aeff799742a5)
 
 # My C, Kernel study legacy from 42Seoul
 
