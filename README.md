@@ -1,3 +1,5 @@
+![42School Legacy Photo](https://photos.fife.usercontent.google.com/pw/AP1GczOT_mMA_RNe_Gq1PkCwR3o6Kl8SK3OV-OPtMptjrCs3mMcu9LycmNKeKQ=w1219-h1624-s-no-gm?authuser=0)
+
 # My C, Kernel study legacy from 42Seoul
 
 This repository contains a collection of C programming practice scripts, inspired by the 42 La Piscine curriculum. Each file demonstrates a specific C language concept or system programming technique, ranging from basic input/output to more advanced topics like string manipulation, control flow, and operator precedence.
